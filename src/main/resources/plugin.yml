@@ -1,0 +1,12 @@
+
+name: DeathHistory
+version: '1.0.0'
+main: id.server.deathhistory.DeathHistory
+api-version: '1.21'
+description: Records all player deaths permanently.
+
+commands:
+  riwayat:
+    description: Melihat riwayat kematian kamu
+    usage: /riwayat
+    
